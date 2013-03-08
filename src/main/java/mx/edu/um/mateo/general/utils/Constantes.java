@@ -2453,6 +2453,7 @@ public class Constantes {
     public static final String CONTAINSKEY_UNIONES = "uniones";
     public static final String CONTAINSKEY_USUARIOS = "usuarios";
     public static final String CONTAINSKEY_COLEGIOS_COLPORTOR = "colegios";
+    public static final String CONTAINSKEY_ARTICULOS = "articulos";
     /**
      * Valores para el los addAttribute para las clases
      */
